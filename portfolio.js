@@ -154,6 +154,18 @@ const workExperiences = {
         "Worked with React.js library to make the output screen more interactive and also integrated the backend APIs with the frontend.",
         "Worked on their main webpage, customized it. Wrote the javascript code to make it more interactive."
       ]
+    },
+    {
+      role: "Front-end developer intern",
+      company: "Ekank Technologies",
+      companylogo: require("./assets/images/logologo.webp"),
+      date: "February 2022 – March 2022",
+      desc:
+        "",
+      descBullets: [
+        "Worked with react js on editor and writer dashboard..",
+        "Created different panels as per the wireframe."
+      ]
     }
   ]
 };
